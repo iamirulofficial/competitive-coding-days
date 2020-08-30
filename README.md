@@ -1,4 +1,4 @@
-# competitive-coding-solln-with-question
+# competitive-coding-days
 
 ## CodeChef
 
