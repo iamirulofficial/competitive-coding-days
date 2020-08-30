@@ -1,7 +1,8 @@
 # competitive-coding-days
 
-## CodeChef
+[CodeChef](https://github.com/iamirulofficial/competitive-coding-days/tree/master/codechef)
 
-## Codeforces
 
-## HackerEarth
+[Codeforces](https://github.com/iamirulofficial/competitive-coding-days/tree/master/codeforces)
+
+[HackerEarth]()
