@@ -5,4 +5,4 @@
 
 [Codeforces](https://github.com/iamirulofficial/competitive-coding-days/tree/master/codeforces)
 
-[HackerEarth]()
+[HackerEarth](https://github.com/iamirulofficial/competitive-coding-days/tree/master/hackerearth)
